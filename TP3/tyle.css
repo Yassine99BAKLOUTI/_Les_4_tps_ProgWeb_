@@ -1,0 +1,59 @@
+body {
+    background-color:lightgrey;
+}
+
+H1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+.adresse {
+
+    text-align: right;
+    font-size: small;
+}
+
+* {
+    margin: 10px;
+}
+
+a:hover {
+    color: blue;
+text-decoration: none;
+}
+a{
+    color: red;
+}
+header {
+    background-color: aliceblue;
+    margin: 20px;
+    padding: 14px;
+    text-align: center;
+}
+
+.age {
+    text-transform: lowercase;
+    font-weight: bolder;
+
+}
+
+H2 {
+    background-color: aliceblue;
+    color: blue;
+    text-transform: uppercase;
+}
+
+.specialite {
+    text-transform: lowercase;
+    font-weight: bolder;
+}
+
+.annee {
+    color: red;
+    text-align: left;
+    font-weight: bolder;
+    padding :100px;
+}
+h3{
+    display: inline;
+}
